@@ -4,11 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>My App</title>
+<title>Hi There!!</title>
 </head>
 <body>
-<h1>Hello World! I have successfully setup the MVC app </h1>
-
-<h2><a href="http://localhost:8080/SpringMvcBySarthak/click" target="_blank">click here</a></h2>
+<h1>Hi There!!!</h1>
 </body>
 </html>

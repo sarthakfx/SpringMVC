@@ -11,4 +11,10 @@ public class TheController {
 		System.out.println("run");
 		return "pages/hello";
 	}
+	
+	@RequestMapping(value="click")
+	public String Click(){
+		System.out.println("run2");
+		return "pages/link";
+	}
 }
